@@ -20,23 +20,23 @@ In this project, I utilized various visualization techniques to uncover patterns
 
 - 1.Churn Distribution (Count Plots):
 
-- Purpose: To understand the class imbalance between churned and retained customers. This sets the baseline for the entire analysis.
+  Purpose: To understand the class imbalance between churned and retained customers. This sets the baseline for the entire analysis.
 
 - 2.Contract Type vs. Churn:
 
-- Purpose: To analyze how different contract terms (e.g., Month-to-month vs. Two-year) impact loyalty. Usually, short-term contracts show significantly higher churn rates.
+  Purpose: To analyze how different contract terms (e.g., Month-to-month vs. Two-year) impact loyalty. Usually, short-term contracts show significantly higher churn rates.
 
 - 3.Tenure & Monthly Charges (Histograms/KDE Plots):
 
-- Purpose: To identify if "newer" customers are more likely to leave and to see if higher monthly costs are a driving factor for attrition.
+  Purpose: To identify if "newer" customers are more likely to leave and to see if higher monthly costs are a driving factor for attrition.
 
 - 4.Service Utilization (Bar Charts):
 
-- Purpose: To compare churn rates across different services (like Fiber Optic vs. DSL). This helps identify if specific service issues or pricing are causing customers to leave.
+  Purpose: To compare churn rates across different services (like Fiber Optic vs. DSL). This helps identify if specific service issues or pricing are causing customers to leave.
 
 - 5.Payment Method Analysis:
 
-- Purpose: To determine if certain payment methods (like Electronic Checks) correlate with higher churn compared to automatic credit card or bank transfers.
+  Purpose: To determine if certain payment methods (like Electronic Checks) correlate with higher churn compared to automatic credit card or bank transfers.
 
 ## Tech Stack
 - Language: Python
